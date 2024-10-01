@@ -8,9 +8,9 @@ includeNewsletter: false
 
 Hello! This page is all about me. Written by me. Quite meta.
 
-I currently live in New York City with my wife and son. We've been in NYC for over 6 years now and have enjoyed every minute. Sure, it's the city that never sleeps, but that works for us.
+I currently live in Shenzhen. I've been in GuangGong for over 6 years. It's the city that never sleeps, but that works for us.
 
-During the day I [work](http://www.linkedin.com/in/hswolff 'LinkedIn') at [MongoDB](http://mongodb.com/) where I'm a Lead Engineer, leading a team of engineers to make coffee into code. It's an overused expression, but some days it truly feels as simple as that.
+During the day, I'm a Front Engineer, Sometimes I also take on the roles of product manager and backend architecture. You know, startups are always "understaffed" (smile). It's an overused expression, but some days it truly feels as simple as that.
 
 <img
     src="/images/profile.jpg"
@@ -22,7 +22,7 @@ During the day I [work](http://www.linkedin.com/in/hswolff 'LinkedIn') at [Mongo
 <!--
 I also have given some talks. <a href="/about/talks">Check them out.</a>
 
-<a href="https://github.com/hswolff/website">Find the source code for this blog here.</a>
+<a href="https://github.com/dllnaoki/website">Find the source code for this blog here.</a>
 -->
 
 <!-- <div class="external-networks">
@@ -37,7 +37,7 @@ I also have given some talks. <a href="/about/talks">Check them out.</a>
     <a href="https://twitter.com/hswolff" title="Twitter">
         <img src="/images/external-networks/twitter.png" alt="Twitter" />
     </a>
-    <a href="https://github.com/hswolff" title="GitHub">
+    <a href="https://github.com/dllnaoki" title="GitHub">
         <img src="/images/external-networks/github.png" alt="GitHub" />
     </a>
     <a href="https://www.facebook.com/harrywolff" title="Facebook">

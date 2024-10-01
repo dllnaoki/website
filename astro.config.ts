@@ -11,7 +11,7 @@ import { remarkExcerpt } from './plugins/remark-excerpt';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://hswolff.com',
+  site: 'https://rioro.top',
   integrations: [
     mdx(),
     sitemap(),

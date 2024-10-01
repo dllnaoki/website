@@ -405,12 +405,6 @@ This means their TypeScript support is first-class as the framework itself is wr
 
 Ultimately it doesn't really matter what React is written in, and I don't think it makes that much of a difference, but it's still a small little thing that was nice to see Vue.js have.
 
-## Video
-
-I've expanded on these thoughts in video form as well! Feel free to watch if you're interested:
-
-<iframe src="//www.youtube.com/embed/RFlQ8HP8Tr4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 ## Closing Thoughts
 
 After all that am I going to abandon React and start using Vue.js exclusively? No. I still very much enjoy the "library-ness" of React and frankly I'm already very proficient at writing React applications.

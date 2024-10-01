@@ -37,8 +37,3 @@ Last updated: _February 14, 2021_
 - Rain Design iLevel2 Laptop Stand
 - I have an external Apple Keyboard and external Apple Touchpad
 
-# Video Tour
-
-I recorded a fun video showcasing my recording setup. It's from October 2019 so may be a little outdated, but hopefully you find it useful!
-
-<iframe src="//www.youtube.com/embed/VeSahw3jFYw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

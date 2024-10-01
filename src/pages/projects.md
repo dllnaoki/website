@@ -14,9 +14,9 @@ Right now I'm focusing on growing my collection of [YouTube](https://www.youtube
 
 Most of the content is about JavaScript, unsurprisingly. I strongly believe that any educational video should show both the code and the instructor. Having both in view provides a user with more learning cues, resulting in a higher chance of learning what is being taught.
 
-## [Open Source](https://github.com/hswolff)
+## [Open Source](https://github.com/dllnaoki)
 
-I also love creating open source software on [GitHub](https://github.com/hswolff). You can click through to see some projects I'e created. Hopefully they may be of use to you!
+I also love creating open source software on [GitHub](https://github.com/dllnaoki). You can click through to see some projects I'e created. Hopefully they may be of use to you!
 
 # Unmaintained Projects
 

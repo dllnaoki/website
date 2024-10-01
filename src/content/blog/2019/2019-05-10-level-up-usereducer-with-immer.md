@@ -59,16 +59,6 @@ Luckily there's a library that makes this easy.
 
 It's called [Immer](https://github.com/immerjs/immer) and I love it.
 
-# Video
-
-FYI this post is also in video form!
-
-See my teach you about using Immer in `useReducer`, rather than you read these words and teach yourself! Don't put me out of a job, let me teach you! I love to talk, truly!
-
-<div class="videoWrapper">
-<iframe width="560" height="315" src="//www.youtube.com/embed/PjsGz6sNG3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 # Source Code
 
 [If you want to jump straight to all the code, it's all available on GitHub.](https://github.com/hswolff/youtube/blob/master/videos/why-i-love-usereducer/src/LoginUseReducerImmer.js)

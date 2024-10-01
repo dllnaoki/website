@@ -157,12 +157,6 @@ For common use cases I'm sure these edge cases are seldom felt, but I'm curious 
 
 This of course is opposed to React's almost too simple `useState` and `useRef` which just return setter functions and a consistent ref-object interface respectively. Perhaps React's API is too simple as it pushes most of the behavior on the end-developer, but at least there's no magic, and that's what I care about most nowadays.
 
-## Video
-
-Like every post, I have an accompanying video to watch as well:
-
-<iframe src="//www.youtube.com/embed/zuLR3KcxIOY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 ## Wrap-up
 
 It shouldn't be any surprise that I prefer React's way of doing things more than Vue.js.
